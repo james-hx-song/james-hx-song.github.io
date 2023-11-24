@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 # subtitle: <a href='https://cse.engin.umich.edu/'>CSE, University of Michigan</a>.
 
