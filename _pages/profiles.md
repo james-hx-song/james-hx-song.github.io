@@ -3,7 +3,7 @@ layout: profiles
 title: people
 permalink: /people/
 subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
-nav: true
+nav: false
 nav_order: 6
 
 profiles:
