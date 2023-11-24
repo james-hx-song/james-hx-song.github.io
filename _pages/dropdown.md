@@ -9,8 +9,5 @@ children:
       permalink: /publications/
     - title: divider
     - title: CV
-      permallink: /cv/
-    # - title: divider
-    # - title: projects
-    #   permalink: /projects/
+      permalink: /cv/
 ---
