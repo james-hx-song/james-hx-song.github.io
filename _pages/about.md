@@ -21,4 +21,4 @@ social: true  # includes social icons at the bottom of the page
 
 I am a sophomore studying Computer Science and Mathematics at the University of Michigan. I am broadly interested in the theory of Machine Learning and Computer Vision. Recently, I have been working on developing Parametric Human Modelling for [Prof. Jingwen Hu](https://www.umtri.umich.edu/people/hu-jingwen/) at [the UofM Transportation Research Insitute](https://www.umtri.umich.edu/), in particular the development of Point Cloud Registration algorithms. 
 
-I plan to go to graduate school in the future.
+Here is my [resume](../assets/pdf/James_Song_CV.pdf).
